@@ -1,26 +1,21 @@
 # Learning
-My journey learning computer science, programming, and Web3 development.
-# Web3 Learning Journey
 
-I started learning computer science and Web3 in August 2026.
+A personal collection of programming exercises, computer science and Ethereum notes, and independent projects.
 
-## Current Focus
+## Repository structure
 
-- Computer Science fundamentals
-- CS50
-- Programming fundamentals
-- Ethereum fundamentals
+| Directory | Contents |
+| --- | --- |
+| [notes/](notes/) | Learning notes and technical explanations |
+| [exercises/python/](exercises/python/) | Independent Python exercises |
+| [projects/](projects/) | Independent coding projects, with their own documentation and tests |
 
-## Learning Roadmap
+## Existing notes
 
-CS fundamentals
-→ Programming
-→ JavaScript / TypeScript
-→ Ethereum
-→ Solidity
-→ Foundry
-→ Web3 projects
+- [2026-08-08 — CS50 and Ethereum fundamentals](notes/2026-08-08.md)
 
-## Goal
+## Working with this repository
 
-Build a strong software engineering foundation and gradually move into Ethereum and Web3 development.
+Use descriptive file names and small, meaningful commits. Keep each project in its own folder, with a README explaining how to run it and tests when applicable.
+
+This repository is public. Do not upload credentials, API keys, wallet private keys, seed phrases, personal information, or course assignment solutions that are not permitted to be published.
